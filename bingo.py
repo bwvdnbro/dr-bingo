@@ -27,8 +27,8 @@ import yaml
 # Choose your doctor-to-be
 #
 # DOCTOR = "Peter"
-DOCTOR = "Sam"
-# DOCTOR = "Marjorie"
+# DOCTOR = "Sam"
+DOCTOR = "Marjorie"
 # -------------------------------------------
 
 
