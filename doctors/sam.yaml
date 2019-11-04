@@ -1,0 +1,47 @@
+# Number of cards
+cards: 20
+
+# list of words that are likely to be mentioned during the presentation
+# mind the manual hyphenation (with a single backslash),
+# which is necessary to ensure every word fits
+likely:
+  - SKIRT
+  - SED
+  - UV
+  - sterren
+  - FITS
+  - artikel
+  - stof
+  - kleur
+  - band
+  - FIR
+  - doctoraat
+  - Maarten Baes
+  - filmpje
+  - 3D
+  - stralings-overdracht
+  - data
+  - telescoop
+  - beeld
+  - flowchart
+  - welkom
+  - CPU
+  - computer
+  - Multi\-threading
+  - PTS
+  - geometrie
+  - cel
+  - Bode's galaxy
+
+# list of words that are less likely to be mentioned
+unlikely:
+  - krijt
+  - 42
+  - Pizza Carlo
+  - an animal name
+  - Hurts himself
+  - comic sans
+  - Ontoforce
+  - Lose shoe-laces
+  - gardening
+  - AGN
