@@ -1,0 +1,46 @@
+# Number of cards
+cards: 20
+
+# list of words that are likely to be mentioned during the presentation
+# mind the manual hyphenation (with a single backslash),
+# which is necessary to ensure every word fits
+likely:
+  - SWIFT
+  - PTS
+  - Spectra
+  - Dusty galaxy
+  - Reddening
+  - SED
+  - Star formation
+  - Bump
+  - \emph{Scatter plot w/o correlation}
+  - \emph{Straight line fit to a cloud of points}
+  - Andromeda
+  - Planet
+  - Redshift
+  - Chili
+  - Cloud
+  - A GIF
+  - \emph{Complains about weather}
+  - \emph{Data reduction issues}
+  - Pie chart
+  - Dresscode
+  - \emph{Slide with no text}
+  - A crown
+  - Herschel
+  - A group picture
+
+# list of words that are less likely to be mentioned
+unlikely:
+  - An ice skate
+  - 891
+  - Pisco sour
+  - A minion
+  - Snow White
+  - US flag
+  - Pyrene or Ovalene
+  - \emph{Explains logarithm / scientific notation}
+  - A cigar
+  - Thirsty
+  - \emph{Technical problems}
+  - \emph{Someone leaves the room}
