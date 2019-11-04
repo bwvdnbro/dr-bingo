@@ -1,5 +1,5 @@
-# Number of cards
-cards: 20
+# Number of cards (it's better for the impagination if it's multiple of 4)
+cards: 24
 
 # list of words that are likely to be mentioned during the presentation
 # mind the manual hyphenation (with a single backslash),

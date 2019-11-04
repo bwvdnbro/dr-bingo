@@ -35,10 +35,6 @@ DOCTOR = "Marjorie"
 def read_words(doctor, subfolder='doctors'):
     with open(os.path.join(subfolder, doctor.lower() + ".yaml")) as f:
         out = yaml.load(f, Loader=yaml.SafeLoader)
-
-    # for category, words in out.items():
-    #     for word in category:
-    #         if word.startswith("<"):
     return out
 
 word_dict = read_words(DOCTOR)
